@@ -1,0 +1,6 @@
+1. sustainability app klasörüne gidin
+2. .bat adli dosyayi acin
+3. proje artik calisiyor projeyi gormek icin panonuza otomatik olarak kopyalanmis linki tarayiciniza yapistirabilrsiniz 
+
+4.projeyi durdurmak icin otomatik acilan cmd uygulamasina gidin iki kere ctrl+c tuslarina basmaniz yeterli olacaktir 
+
